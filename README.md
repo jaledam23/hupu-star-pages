@@ -1,2 +1,14 @@
 # hupu-star-pages
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
